@@ -2,7 +2,7 @@
 
 🎓 Computer Engineer | 🧠 Certified Data Scientist | 🤖 Automation & Integration Specialist
 
-Currently working on system integrations (Odoo, Provet Cloud), automation with Python, and data analysis for veterinary tech solutions.
+Currently working on system integrations (Qvet, Odoo, Provet Cloud, SII), automation with Python, and data analysis for veterinary tech solutions.
 
 I enjoy building real-world solutions that simplify operations, connect disconnected systems, and turn raw data into actionable insights.
 
@@ -11,7 +11,7 @@ I enjoy building real-world solutions that simplify operations, connect disconne
 ---
 
 ## 🚀 What I'm Working On
-- Systems integration (Odoo, Provet Cloud, SII)
+- Systems integration (Qvet, Odoo, Provet Cloud, SII)
 - Data automation and cleaning with Python
 - Process optimization in veterinary operations
 - Internal tools and support scripts for clinics
@@ -25,7 +25,7 @@ I enjoy building real-world solutions that simplify operations, connect disconne
 - Ruby on Rails (base)
 
 ## 📌 Coming Soon
-- Public projects on data automation and analysis
+- Public projects about data automation and analysis
 - Personal freelance portfolio with real use cases
 
 ## 📫 Contact
@@ -38,7 +38,7 @@ I enjoy building real-world solutions that simplify operations, connect disconne
 
 🎓 Ingeniero en Informática | 🧠 Data Scientist Certificado | 🤖 Especialista en Automatización e Integración
 
-Actualmente formo parte del equipo informático del sector veterinario, donde desarrollo soluciones para integrar sistemas (Odoo, Provet Cloud), automatizar procesos con Python y analizar datos para mejorar decisiones.
+Actualmente formo parte del equipo informático del sector veterinario, donde desarrollo soluciones para integrar sistemas (Qvet, Odoo, Provet Cloud, SII), automatizar procesos con Python y analizar datos para mejorar decisiones.
 
 Disfruto construir soluciones prácticas que resuelvan problemas reales y ahorren tiempo en tareas repetitivas.
 
@@ -59,7 +59,7 @@ Disfruto construir soluciones prácticas que resuelvan problemas reales y ahorre
 - Ruby on Rails (base)
 
 ## 📌 Próximamente
-- Subida de proyectos públicos de automatización y análisis de datos
+- Publicación de proyectos públicos de automatización y análisis de datos
 - Portafolio freelance en construcción
 
 ## 📫 Contacto 🇨🇱
@@ -71,3 +71,4 @@ Disfruto construir soluciones prácticas que resuelvan problemas reales y ahorre
 > *This profile is currently being updated while I reorganize and improve my repositories. Thanks for visiting!*
 
 > *Este perfil está en proceso de renovación mientras organizo y actualizo mis repositorios. ¡Gracias por visitar!*
+
