@@ -2,7 +2,7 @@
 
 🎓 Computer Engineer | 🧠 Certified Data Scientist | 🤖 Automation & Integration Specialist
 
-Currently working on system integrations (Odoo, Provet Cloud, SII), automation with Python, and data analysis for veterinary tech solutions.
+Currently working on system integrations (Odoo, Provet Cloud), automation with Python, and data analysis for veterinary tech solutions.
 
 I enjoy building real-world solutions that simplify operations, connect disconnected systems, and turn raw data into actionable insights.
 
@@ -30,15 +30,15 @@ I enjoy building real-world solutions that simplify operations, connect disconne
 
 ## 📫 Contact
 - [LinkedIn](https://linkedin.com/in/pabloepp)
-- Email: pablo@example.com *(replace with your real email if you want)*
+- Email: pablo.ppastene@gmail.com
 
 ---
 
 # 👋 ¡Hola! Soy Pablo Pérez
 
-🎓 Ingeniero en Informática | 🧠 Científico de Datos Certificado | 🤖 Especialista en Automatización e Integración
+🎓 Ingeniero en Informática | 🧠 Data Scientist Certificado | 🤖 Especialista en Automatización e Integración
 
-Actualmente formo parte del equipo informático del sector veterinario, donde desarrollo soluciones para integrar sistemas (Odoo, Provet Cloud, SII), automatizar procesos con Python y analizar datos para mejorar decisiones.
+Actualmente formo parte del equipo informático del sector veterinario, donde desarrollo soluciones para integrar sistemas (Odoo, Provet Cloud), automatizar procesos con Python y analizar datos para mejorar decisiones.
 
 Disfruto construir soluciones prácticas que resuelvan problemas reales y ahorren tiempo en tareas repetitivas.
 
@@ -64,7 +64,7 @@ Disfruto construir soluciones prácticas que resuelvan problemas reales y ahorre
 
 ## 📫 Contacto 🇨🇱
 - [LinkedIn](https://linkedin.com/in/pabloepp)
-- Email: pablo@example.com *(reemplaza por el real si deseas mostrarlo)*
+- Email: pablo.ppastene@gmail.com
 
 ---
 
